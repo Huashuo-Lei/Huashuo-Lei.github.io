@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wpyaoxueros.github.io/sitemap.xml
+Sitemap: https://huashuo-lei.github.io/sitemap.xml
