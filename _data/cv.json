@@ -1,0 +1,135 @@
+{
+  "basics": {
+    "name": "Huashuo Lei (雷化硕)",
+    "label": "MPhil Student in Robotics and Autonomous Systems",
+    "email": "leihuashuohit@gmail.com",
+    "phone": "+86 147 6882 1104",
+    "website": "https://huashuo-lei.github.io/",
+    "summary": "MPhil student working on embodied AI, robot learning, vision-language-action models, and long-horizon robotic manipulation.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Guangzhou",
+      "countryCode": "CN",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=Kcf5u98AAAAJ&hl=en"
+      },
+      {
+        "network": "GitHub",
+        "username": "wpyaoxueros",
+        "url": "https://github.com/wpyaoxueros"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Yijiahe Technology Co., Ltd.",
+      "position": "Algorithm Engineer Intern",
+      "startDate": "Jan 2023",
+      "endDate": "Apr 2023",
+      "summary": "Worked on vision-guided control, hand-eye calibration, humanoid manipulator simulation, real-time trajectory planning, and assembly-line manipulation.",
+      "highlights": [
+        "Built pipelines with OpenCV, Eigen, PCL, MoveIt, and ROS."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "The Hong Kong University of Science and Technology (Guangzhou)",
+      "area": "MPhil in Robotics and Autonomous Systems",
+      "studyType": "MPhil",
+      "startDate": "2025",
+      "endDate": "Present",
+      "gpa": null,
+      "courses": ["Supervisor: Prof. Haoang Li"]
+    },
+    {
+      "institution": "Harbin Institute of Technology",
+      "area": "B.S. in Robotics Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2021",
+      "endDate": "2025",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming and machine learning",
+      "keywords": ["Python", "C++", "PyTorch", "TensorFlow", "JAX", "CUDA", "Bash"]
+    },
+    {
+      "name": "Robotics and simulation",
+      "keywords": ["ROS/ROS2", "MoveIt", "Isaac Sim", "MuJoCo", "Gazebo", "PyBullet", "OpenCV", "Point-cloud processing"]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    "Embodied AI",
+    "Robot foundation models",
+    "Vision-language-action models",
+    "World models",
+    "Long-horizon manipulation"
+  ],
+  "references": [],
+  "publications": [
+    {
+      "name": "RoboMemArena: A Keyframe-Annotated Benchmark for Memory-Dependent Robotic Manipulation",
+      "publisher": "Preprint, 2026",
+      "releaseDate": "2026-01-09",
+      "website": "https://arxiv.org/abs/2605.10921",
+      "summary": "A benchmark for memory-dependent robotic manipulation."
+    },
+    {
+      "name": "Static-Dynamic Disentanglement for Efficient Multi-Frame Vision-Language-Action Models",
+      "publisher": "NeurIPS 2026, Poster, accepted",
+      "releaseDate": "2026-01-08",
+      "website": "https://arxiv.org/abs/2602.03983",
+      "summary": "Efficient multi-frame vision-language-action modeling."
+    },
+    {
+      "name": "EnvTrap: Revealing the Environment-Only Attack Surface in Embodied AI via Consequence-Blind Action Execution",
+      "publisher": "NeurIPS 2026, Poster, accepted",
+      "releaseDate": "2026-01-07",
+      "website": "",
+      "summary": "Security analysis of environment-only attack surfaces in embodied AI."
+    },
+    {
+      "name": "Rethinking the Practicality of Vision-Language-Action Model: A Comprehensive Benchmark and An Improved Baseline",
+      "publisher": "ICRA 2026",
+      "releaseDate": "2026-01-05",
+      "website": "https://arxiv.org/pdf/2602.22663",
+      "summary": "A benchmark and improved baseline for practical VLA systems."
+    },
+    {
+      "name": "High-Accuracy Early Recognition of Upper-Limb Motions for Exoskeleton-Assisted Mirror Rehabilitation",
+      "publisher": "IEEE Robotics and Automation Letters, 2025",
+      "releaseDate": "2025-06-08",
+      "website": "https://doi.org/10.1109/LRA.2025.3534684",
+      "summary": "Early recognition of upper-limb motions for rehabilitation assistance."
+    }
+  ],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": [
+    {
+      "name": "RoboMemArena",
+      "category": "Embodied AI",
+      "date": "2026-01-01",
+      "url": "https://robomemarena.github.io/",
+      "description": "A keyframe-annotated benchmark for memory-dependent robotic manipulation."
+    },
+    {
+      "name": "WAM and robot learning projects",
+      "category": "Robot learning",
+      "date": "2025-01-01",
+      "url": "",
+      "description": "Model pre-training, robot data processing, evaluation, and embodied manipulation experiments."
+    }
+  ]
+}
