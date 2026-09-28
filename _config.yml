@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Huashuo Lei | 雷化硕"
+title                    : "Huashuo Lei 雷化硕"
 title_separator          : "-"
-name                     : &name "Huashuo Lei | 雷化硕"
+name                     : &name "Huashuo Lei 雷化硕"
 description              : &description "Huashuo Lei's personal website, research, publications, and projects in embodied AI and robot learning"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://huashuo-lei.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "Huashuo-Lei/Huashuo-Lei.github.io"
 author:
   # Biographic information
   avatar           : "huashuo-lei.jpg"
-  name             : "雷化硕 (Huashuo Lei)"
+  name             : "Huashuo Lei 雷化硕"
   pronouns         : # example: "she/her"  
   bio              : "MPhil student in Robotics and Autonomous Systems"
   location         : "Guangzhou, China"
@@ -130,7 +130,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : "LnTbxkXw0C_7Z1cYKodPUFX4XIoo7aQKXMTFreuhFQE"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :

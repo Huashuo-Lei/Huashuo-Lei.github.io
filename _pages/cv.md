@@ -27,14 +27,18 @@ Research focus
 * World models, WAM pre-training, robot data processing, and long-horizon manipulation.
 * Memory-dependent execution and reliable evaluation on real robots.
 
-Selected publications
+Publications
 ======
 
 * **RoboMemArena: A Keyframe-Annotated Benchmark for Memory-Dependent Robotic Manipulation**, preprint, 2026.
-* **Static-Dynamic Disentanglement for Efficient Multi-Frame Vision-Language-Action Models**, NeurIPS 2026, Poster, accepted.
-* **EnvTrap: Revealing the Environment-Only Attack Surface in Embodied AI via Consequence-Blind Action Execution**, NeurIPS 2026, Poster, accepted.
+* **Static-Dynamic Disentanglement for Efficient Multi-Frame Vision-Language-Action Models**, NeurIPS 2026, Poster.
+* **EnvTrap: Revealing the Environment-Only Attack Surface in Embodied AI via Consequence-Blind Action Execution**, NeurIPS 2026, Poster.
+* **HCSG: Human-Centric Semantic-Geometric Reasoning for Vision-Language Navigation**, preprint, 2026.
 * **Rethinking the Practicality of Vision-Language-Action Model: A Comprehensive Benchmark and An Improved Baseline**, ICRA 2026.
 * **High-Accuracy Early Recognition of Upper-Limb Motions for Exoskeleton-Assisted Mirror Rehabilitation**, IEEE RA-L, 2025.
+* **MonoAttack: A Strong Attack Framework with Depth-Migration and Attribute-Tampering for Monocular 3D Object Detection**, IJCNN 2025.
+* **Manipulating the Bounding Box: Multimodal Controlled Backdoor Attacks on 3D Visual Grounding Models**, IJCNN 2025.
+* **Exploring Disentangled Appearance-Motion Contexts for Temporal Activity Localization**, IJCNN 2025.
 
 Technical skills
 ======

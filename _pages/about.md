@@ -1,55 +1,102 @@
 ---
 permalink: /
-title: "Huashuo Lei (雷化硕)"
+title: "Huashuo Lei 雷化硕"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am **Huashuo Lei (雷化硕)**, an MPhil student in **Robotics and Autonomous Systems** at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Haoang Li](https://sites.google.com/view/haoangli/homepage). I received my B.S. in **Robotics Engineering** from [Harbin Institute of Technology](https://www.hit.edu.cn/).
+<h3>MPhil Student in Robotics and Autonomous Systems</h3>
+<p>
+  The Hong Kong University of Science and Technology (Guangzhou)<br />
+  Guangzhou, China<br /><br />
+  Email: <a href="mailto:leihuashuohit@gmail.com">leihuashuohit@gmail.com</a>
+</p>
 
-During this period, I have also worked closely with [Wenxuan Song](https://songwxuan.github.io/).
+<p class="quick-links">
+  <a href="https://huashuo-lei.github.io/" target="_blank" rel="noreferrer">Homepage</a>
+  <a href="https://scholar.google.com/citations?user=Kcf5u98AAAAJ&hl=en" target="_blank" rel="noreferrer">Google Scholar</a>
+  <a href="mailto:leihuashuohit@gmail.com">Email</a>
+  <a href="tel:+8614768821104">Phone</a>
+</p>
 
-My research focuses on **embodied AI, robot learning, vision-language-action models, and long-horizon robotic manipulation**. I am particularly interested in building robot foundation models that can understand, remember, and act reliably in the physical world.
+<h2>Biography</h2>
+<p>
+  I am Huashuo Lei (雷化硕), currently an MPhil student in Robotics and Autonomous Systems at
+  <a href="https://hkust-gz.edu.cn/" target="_blank" rel="noreferrer">The Hong Kong University of Science and Technology (Guangzhou)</a>,
+  supervised by <a href="https://sites.google.com/view/haoangli/homepage" target="_blank" rel="noreferrer">Prof. Haoang Li</a>. During this period, I have also worked closely with <a href="https://songwxuan.github.io/" target="_blank" rel="noreferrer">Wenxuan Song</a>. I received my BS degree in Robotics Engineering
+  from <a href="https://www.hit.edu.cn/" target="_blank" rel="noreferrer">Harbin Institute of Technology</a>.
+</p>
+<p>
+  My recent research focuses on embodied AI, robot learning, long-horizon robotic manipulation,
+  and vision-language-action (VLA) systems, with particular interest in memory-dependent robotic execution.
+</p>
+<p>
+  I am currently open to internship, research, and PhD opportunities related to embodied AI,
+  robot learning, and vision-language-action systems.
+</p>
 
-I am currently open to research collaborations, internships, and PhD opportunities related to embodied AI, robot learning, VLA, world models, and robotic manipulation.
+{% include selected-publications.html %}
 
-Research Interests
-======
+<h2>Education</h2>
+<table class="previous-profile-table" width="100%">
+  <tbody>
+    <tr>
+      <td width="306">
+        <img src="/assets/images/hkust-gz-logo.png" width="220" alt="HKUST GZ" style="box-shadow: 4px 4px 8px #fff" />
+      </td>
+      <td>
+        <p><b>The Hong Kong University of Science and Technology (Guangzhou)</b></p>
+        <p>MPhil in Robotics and Autonomous Systems (ROAS)</p>
+        <p>Supervisor: Prof. Haoang Li</p>
+        <p>Sep. 2025 - Present</p>
+      </td>
+    </tr>
+    <tr><td colspan="2" class="gap-row"></td></tr>
+    <tr>
+      <td width="306">
+        <img src="/assets/images/hit-logo.gif" width="220" alt="HIT" style="box-shadow: 4px 4px 8px #fff" />
+      </td>
+      <td>
+        <p><b>Harbin Institute of Technology</b></p>
+        <p>BS in Robotics Engineering</p>
+        <p>Undergraduate Advisors: Prof. Yaxin Liu and Prof. Yufeng Yao</p>
+        <p>Sep. 2021 - May 2025</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-* Embodied AI and robot foundation models
-* Vision-language-action models and world models
-* Memory-dependent and long-horizon robotic manipulation
-* Robot learning, data generation, and real-robot evaluation
+<h2>Experience</h2>
+<table class="previous-profile-table" width="100%">
+  <tbody>
+    <tr>
+      <td width="306">
+        <img src="https://images.media.beer/d343a3c2bc6cfde02a41a5154ac05804123.png" width="220" alt="Yijiahe" onerror="this.onerror=null;this.src='/assets/images/logo-3-color.png';" style="box-shadow: 4px 4px 8px #fff" />
+      </td>
+      <td>
+        <p><b>Algorithm Engineer Intern, Yijiahe Technology Co., Ltd.</b></p>
+        <p>Jan. 2023 - Apr. 2023, Nanjing, China</p>
+        <em>Topic: Vision-guided control, hand-eye calibration, humanoid manipulator simulation</em>
+        <p>
+          Built a simulation pipeline with OpenCV/Eigen/PCL and integrated MoveIt + ROS for
+          real-time trajectory planning and assembly-line manipulation tasks.
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-Education
-======
+<h2>Awards</h2>
+<ul style="margin-top:0; margin-bottom:1em; padding-left:22px; line-height:1.5;">
+  <li>International Second Prize, U.S. College Student Mathematical Modeling Competition</li>
+  <li>National Second Prize, Offshore Engineering Equipment Competition</li>
+  <li>National Ranking 32/3809, IKCEST Big Data Competition</li>
+</ul>
 
-* **MPhil in Robotics and Autonomous Systems**, The Hong Kong University of Science and Technology (Guangzhou), 2025–Present. Supervisor: Prof. Haoang Li.
-* **B.S. in Robotics Engineering**, Harbin Institute of Technology, 2021–2025.
-
-Experience
-======
-
-* **Algorithm Engineer Intern**, Yijiahe Technology Co., Ltd., Nanjing, Jan–Apr 2023. Worked on vision-guided control, hand-eye calibration, humanoid manipulator simulation, real-time trajectory planning, and assembly-line manipulation using OpenCV, Eigen, PCL, MoveIt, and ROS.
-
-Selected Projects
-======
-
-* [RoboMemArena](https://robomemarena.github.io/): a keyframe-annotated benchmark for memory-dependent robotic manipulation.
-* [DySta](https://github.com/Boltzmachine/openvla-oft): static-dynamic disentanglement for efficient multi-frame VLA models.
-* WAM pre-training and robot learning projects involving data processing, model training, and evaluation.
-* Vision-language-action benchmarking, embodied navigation, and real-robot manipulation projects.
-
-Awards
-======
-
-* International Second Prize, U.S. College Student Mathematical Modeling Competition.
-* National Second Prize, Offshore Engineering Equipment Competition.
-* National Ranking 32/3809, IKCEST Big Data Competition.
-
-Technical Skills
-======
-
-Python, C++, PyTorch, ROS/ROS2, MATLAB, Bash, TensorFlow, JAX, Stable Baselines3, RLlib, Gazebo, Isaac Sim, MuJoCo, PyBullet, CUDA, OpenCV, MoveIt, and point-cloud processing.
+<h2>Technologies</h2>
+<p>
+  Python, C++, ROS/ROS2, MATLAB, Bash, PyTorch, TensorFlow, JAX, Stable Baselines3,
+  RLlib, Gazebo, Isaac Sim, MuJoCo, PyBullet, CUDA, OpenCV, MoveIt.
+</p>

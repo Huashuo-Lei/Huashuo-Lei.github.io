@@ -45,6 +45,14 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {% if page.collection == 'publications' and page.authors %}
+          <p>{{ page.authors }}</p>
+        {% endif %}
+        {% if page.media_image %}
+          <p><img src="{{ page.media_image | relative_url }}" alt="{{ page.media_alt | escape }}" width="500" /></p>
+        {% elsif page.media_video %}
+          <p><video controls autoplay muted playsinline preload="metadata" poster="{{ page.media_poster | relative_url }}" width="500"><source src="{{ page.media_video | relative_url }}" type="video/mp4" />Your browser does not support the video tag.</video></p>
+        {% endif %}
         {{ content }}
 
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}

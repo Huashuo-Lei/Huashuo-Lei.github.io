@@ -37,3 +37,53 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Keep the original publication media and text together in the Academic Pages layout. */
+.previous-publications,
+.previous-profile-table {
+  border: 0;
+
+  td {
+    border: 0;
+    vertical-align: top;
+    padding: 0.65em 0.8em;
+  }
+
+  td:first-child:not([colspan]) {
+    width: 306px;
+  }
+
+  img,
+  video {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .gap-row td {
+    height: 0.7em;
+    padding: 0;
+    border-bottom: 1px solid var(--global-border-color);
+  }
+}
+
+@media (max-width: 600px) {
+  .previous-publications,
+  .previous-profile-table {
+    display: block;
+
+    tbody,
+    tr,
+    td {
+      display: block;
+      width: 100% !important;
+    }
+
+    tr:not(.gap-row) {
+      padding: 0.75em 0;
+    }
+
+    .gap-row {
+      display: none;
+    }
+  }
+}

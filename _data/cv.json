@@ -87,17 +87,24 @@
     },
     {
       "name": "Static-Dynamic Disentanglement for Efficient Multi-Frame Vision-Language-Action Models",
-      "publisher": "NeurIPS 2026, Poster, accepted",
+      "publisher": "NeurIPS 2026, Poster",
       "releaseDate": "2026-01-08",
       "website": "https://arxiv.org/abs/2602.03983",
       "summary": "Efficient multi-frame vision-language-action modeling."
     },
     {
       "name": "EnvTrap: Revealing the Environment-Only Attack Surface in Embodied AI via Consequence-Blind Action Execution",
-      "publisher": "NeurIPS 2026, Poster, accepted",
+      "publisher": "NeurIPS 2026, Poster",
       "releaseDate": "2026-01-07",
       "website": "",
       "summary": "Security analysis of environment-only attack surfaces in embodied AI."
+    },
+    {
+      "name": "HCSG: Human-Centric Semantic-Geometric Reasoning for Vision-Language Navigation",
+      "publisher": "Preprint, 2026",
+      "releaseDate": "2026-01-06",
+      "website": "https://arxiv.org/abs/2605.13321",
+      "summary": "Human-centric semantic-geometric reasoning for vision-language navigation."
     },
     {
       "name": "Rethinking the Practicality of Vision-Language-Action Model: A Comprehensive Benchmark and An Improved Baseline",
@@ -112,6 +119,27 @@
       "releaseDate": "2025-06-08",
       "website": "https://doi.org/10.1109/LRA.2025.3534684",
       "summary": "Early recognition of upper-limb motions for rehabilitation assistance."
+    },
+    {
+      "name": "MonoAttack: A Strong Attack Framework with Depth-Migration and Attribute-Tampering for Monocular 3D Object Detection",
+      "publisher": "IJCNN 2025",
+      "releaseDate": "2025-06-07",
+      "website": "https://doi.org/10.1109/IJCNN64981.2025.11228111",
+      "summary": ""
+    },
+    {
+      "name": "Manipulating the Bounding Box: Multimodal Controlled Backdoor Attacks on 3D Visual Grounding Models",
+      "publisher": "IJCNN 2025",
+      "releaseDate": "2025-06-06",
+      "website": "https://doi.org/10.1109/IJCNN64981.2025.11229253",
+      "summary": ""
+    },
+    {
+      "name": "Exploring Disentangled Appearance-Motion Contexts for Temporal Activity Localization",
+      "publisher": "IJCNN 2025",
+      "releaseDate": "2025-06-05",
+      "website": "https://doi.org/10.1109/IJCNN64981.2025.11227216",
+      "summary": ""
     }
   ],
   "presentations": [],

@@ -6,6 +6,8 @@ permalink: /publication/bbox-backdoor
 date: 2025-06-06
 venue: "International Joint Conference on Neural Networks (IJCNN), 2025"
 authors: "X. Zhang*, H. Lei*, D. Liu, X. Qu, X. Fang, R. Guan, K. Jin"
+media_image: "/assets/images/bbox-backdoor-thumb.png"
+media_alt: "Bounding box backdoor paper"
 excerpt: "Multimodal controlled backdoor attacks against 3D visual grounding models."
 paperurl: "https://doi.org/10.1109/IJCNN64981.2025.11229253"
 ---
