@@ -16,6 +16,9 @@ Education
 Research and work experience
 ======
 
+* **Algorithm Intern**, 深圳超维动力科技有限公司
+  * Contributed to embodied AI foundation model design and training-data development, including harmonizing action spaces and velocity representations across multiple data sources.
+  * Expanded background-texture diversity in training data to improve generalization in visually complex environments.
 * **Algorithm Engineer Intern**, Yijiahe Technology Co., Ltd., Nanjing, Jan–Apr 2023
   * Developed vision-guided control and real-time trajectory planning pipelines with OpenCV, Eigen, PCL, MoveIt, and ROS.
   * Worked on hand-eye calibration, humanoid manipulator simulation, and assembly-line manipulation.

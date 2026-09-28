@@ -72,6 +72,18 @@ redirect_from:
 <table class="previous-profile-table" width="100%">
   <tbody>
     <tr>
+      <td width="306"><b>深圳超维动力科技有限公司</b></td>
+      <td>
+        <p><b>Algorithm Intern</b></p>
+        <em>Topic: Embodied AI foundation models and training data</em>
+        <p>
+          Contributed to foundation model design and training-data development. Unified action spaces
+          and velocity representations across multiple data sources, and expanded background-texture
+          diversity to improve generalization in visually complex environments.
+        </p>
+      </td>
+    </tr>
+    <tr>
       <td width="306">
         <img src="https://images.media.beer/d343a3c2bc6cfde02a41a5154ac05804123.png" width="220" alt="Yijiahe" onerror="this.onerror=null;this.src='/assets/images/logo-3-color.png';" style="box-shadow: 4px 4px 8px #fff" />
       </td>

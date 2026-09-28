@@ -28,6 +28,15 @@
   },
   "work": [
     {
+      "company": "深圳超维动力科技有限公司",
+      "position": "Algorithm Intern",
+      "summary": "Contributed to embodied AI foundation model design and training-data development.",
+      "highlights": [
+        "Unified action spaces and velocity representations across multiple training-data sources.",
+        "Expanded background-texture diversity to improve generalization in visually complex environments."
+      ]
+    },
+    {
       "company": "Yijiahe Technology Co., Ltd.",
       "position": "Algorithm Engineer Intern",
       "startDate": "Jan 2023",
