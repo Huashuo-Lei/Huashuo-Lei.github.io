@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Huashuo Lei | 雷化硕"
+title: "Huashuo Lei (雷化硕)"
 author_profile: true
 redirect_from:
   - /about/
