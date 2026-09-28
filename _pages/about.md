@@ -10,15 +10,7 @@ redirect_from:
 <h3>MPhil Student in Robotics and Autonomous Systems</h3>
 <p>
   The Hong Kong University of Science and Technology (Guangzhou)<br />
-  Guangzhou, China<br /><br />
-  Email: <a href="mailto:leihuashuohit@gmail.com">leihuashuohit@gmail.com</a>
-</p>
-
-<p class="quick-links">
-  <a href="https://huashuo-lei.github.io/" target="_blank" rel="noreferrer">Homepage</a>
-  <a href="https://scholar.google.com/citations?user=Kcf5u98AAAAJ&hl=en" target="_blank" rel="noreferrer">Google Scholar</a>
-  <a href="mailto:leihuashuohit@gmail.com">Email</a>
-  <a href="tel:+8614768821104">Phone</a>
+  Guangzhou, China
 </p>
 
 <h2>Biography</h2>
