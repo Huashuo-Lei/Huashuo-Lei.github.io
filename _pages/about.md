@@ -64,7 +64,12 @@ redirect_from:
 <table class="previous-profile-table" width="100%">
   <tbody>
     <tr>
-      <td width="306"><b>深圳超维动力科技有限公司</b></td>
+      <td width="306">
+        <a href="https://www.kinetixai.tech/zh" target="_blank" rel="noreferrer">
+          <img src="/assets/images/kinetix-ai-logo.svg" width="220" alt="Kinetix AI 超维动力" style="display:block; max-width:100%; height:auto; padding:14px; margin-bottom:12px; background:#222b3a; border-radius:4px; box-sizing:border-box;" />
+        </a>
+        <b>深圳超维动力科技有限公司</b>
+      </td>
       <td>
         <p><b>Algorithm Intern</b></p>
         <em>Topic: Embodied AI foundation models and training data</em>
