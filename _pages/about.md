@@ -25,7 +25,7 @@ redirect_from:
   and vision-language-action (VLA) systems, with particular interest in memory-dependent robotic execution.
 </p>
 <p>
-  I am currently open to internship, research, and PhD opportunities related to embodied AI,
+  I am currently open to internship and research opportunities related to embodied AI,
   robot learning, and vision-language-action systems.
 </p>
 
